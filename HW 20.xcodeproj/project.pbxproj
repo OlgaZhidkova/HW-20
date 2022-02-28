@@ -13,6 +13,7 @@
 		7764AD2A27CB94E400A64B05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7764AD2827CB94E400A64B05 /* Main.storyboard */; };
 		7764AD2C27CB94E600A64B05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7764AD2B27CB94E600A64B05 /* Assets.xcassets */; };
 		7764AD2F27CB94E600A64B05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7764AD2D27CB94E600A64B05 /* LaunchScreen.storyboard */; };
+		77A716A527CD40C700BECB08 /* StringExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77A716A427CD40C700BECB08 /* StringExtention.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7764AD2B27CB94E600A64B05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7764AD2E27CB94E600A64B05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7764AD3027CB94E600A64B05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77A716A427CD40C700BECB08 /* StringExtention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtention.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7764AD2227CB94E400A64B05 /* AppDelegate.swift */,
 				7764AD2427CB94E400A64B05 /* SceneDelegate.swift */,
 				7764AD2627CB94E400A64B05 /* ViewController.swift */,
+				77A716A427CD40C700BECB08 /* StringExtention.swift */,
 				7764AD2827CB94E400A64B05 /* Main.storyboard */,
 				7764AD2B27CB94E600A64B05 /* Assets.xcassets */,
 				7764AD2D27CB94E600A64B05 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7764AD2727CB94E400A64B05 /* ViewController.swift in Sources */,
+				77A716A527CD40C700BECB08 /* StringExtention.swift in Sources */,
 				7764AD2327CB94E400A64B05 /* AppDelegate.swift in Sources */,
 				7764AD2527CB94E400A64B05 /* SceneDelegate.swift in Sources */,
 			);
